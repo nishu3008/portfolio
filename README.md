@@ -13,9 +13,6 @@ Built with **HTML, CSS, and JavaScript** (custom responsive design).
 
 ---
 
-## 🔹 Screenshots
-(Add 1–2 screenshots here for better impression)
-
 ---
 
 ## 🔹 Tech Stack
@@ -29,4 +26,4 @@ Built with **HTML, CSS, and JavaScript** (custom responsive design).
 ## 🔹 How to Use
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/nishu3008/portfolio-website.git
